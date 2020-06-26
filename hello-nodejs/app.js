@@ -1,2 +1,2 @@
-//this is just to show the changes
+//this is just sample changes
 console.log("Hello World!\n");
